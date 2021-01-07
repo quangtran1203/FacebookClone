@@ -1,0 +1,12 @@
+.sidebar {
+  flex: 0.33;
+  padding: 25px 10px;
+}
+.covid_link {
+  text-decoration: none;
+  color: black;
+}
+.covid_link:visited {
+  text-decoration: none;
+  color: black;
+}
